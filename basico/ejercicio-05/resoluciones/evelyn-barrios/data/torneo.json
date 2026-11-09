@@ -1,0 +1,15 @@
+{
+  "torneo": "Liga Intermedia de Futbol Sala",
+  "temporada": 2026,
+  "equipos": [
+    { "id": 1, "nombre": "Halcones FS", "puntos": 18, "partidosJugados": 7, "golesFavor": 28, "golesContra": 14 },
+    { "id": 2, "nombre": "Furia Roja", "puntos": 15, "partidosJugados": 7, "golesFavor": 24, "golesContra": 16 },
+    { "id": 3, "nombre": "Titanium Club", "puntos": 10, "partidosJugados": 7, "golesFavor": 19, "golesContra": 20 },
+    { "id": 4, "nombre": "Relampago FC", "puntos": 4, "partidosJugados": 7, "golesFavor": 12, "golesContra": 33 }
+  ],
+  "goleadores": [
+    { "jugador": "Mateo Gomez", "equipo": "Halcones FS", "goles": 11 },
+    { "jugador": "Lucas Perez", "equipo": "Furia Roja", "goles": 9 },
+    { "jugador": "Daniel Morales", "equipo": "Titanium Club", "goles": 7 }
+  ]
+}
