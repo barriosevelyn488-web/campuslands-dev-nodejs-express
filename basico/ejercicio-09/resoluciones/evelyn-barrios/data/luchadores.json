@@ -1,0 +1,5 @@
+[
+  { "id": 1, "nombre": "Rico Verhoeven", "categoria": "Pesado", "victorias": 60, "derrotas": 10, "ko": 20 },
+  { "id": 2, "nombre": "Giorgio Petrosyan", "categoria": "Medio", "victorias": 104, "derrotas": 3, "ko": 41 },
+  { "id": 3, "nombre": "Takeru Segawa", "categoria": "Pluma", "victorias": 43, "derrotas": 3, "ko": 25 }
+]
