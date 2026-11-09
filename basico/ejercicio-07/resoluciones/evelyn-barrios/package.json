@@ -1,0 +1,21 @@
+{
+  "name": "ejercicio-07-evelyn-barrios",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Basico 07: process.argv y CLI - Autos de lujo",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "cli": "node src/cli.js",
+    "cli:listar": "node src/cli.js --listar",
+    "cli:filtrar": "node src/cli.js --marca=Porsche"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
