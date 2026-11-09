@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio-02-evelyn-barrios",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Basico 02: npm scripts y package.json - Shooters competitivos",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "info": "node -v",
+    "status": "node -e \"console.log('Servicio de emparejamiento operativo')\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
