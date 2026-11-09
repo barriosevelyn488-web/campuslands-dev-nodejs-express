@@ -1,0 +1,5 @@
+Procedimiento de mantenimiento del sistema de frenos:
+1. Inspeccionar nivel de liquido de frenos DOT 4.
+2. Revisar grosor de pastillas de freno (minimo 2.0 mm).
+3. Purgar lineas hidraulicas para eliminar burbujas de aire.
+4. Ajustar torque de caliper a 28 Nm.

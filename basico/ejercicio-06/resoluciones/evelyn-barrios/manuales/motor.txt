@@ -1,0 +1,5 @@
+Mantenimiento preventivo del motor 4 tiempos:
+1. Drenar aceite lubricante 10W-40 en caliente.
+2. Sustituir filtro de aceite y arandela de carter.
+3. Calibrar holgura de valvulas (admision: 0.08 mm, escape: 0.12 mm).
+4. Verificar bujia de iridio y calibrar electrodo a 0.7 mm.
